@@ -5,6 +5,8 @@ A bot that uses openAi chat bot with commands.
 *NOTES*
 
 - In order to host this bot a ffmpeg executable file is needed and should be placed in cogs folder and named 'ffmpeg-1'
+- or
+- Just download the zip
 
 Built with the help of the template by:
 
