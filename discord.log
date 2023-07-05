@@ -1,0 +1,11 @@
+[2023-06-30 12:16:05] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2023-06-30 12:16:05] [INFO    ] discord_bot: Loaded extension 'owner'
+[2023-06-30 12:16:07] [INFO    ] discord_bot: Loaded extension 'open_ai_chat'
+[2023-06-30 12:16:07] [INFO    ] discord_bot: Loaded extension 'general'
+[2023-06-30 12:16:07] [INFO    ] discord_bot: Loaded extension 'sus_commands'
+[2023-06-30 12:16:11] [INFO    ] discord_bot: Logged in as Imposter
+[2023-06-30 12:16:11] [INFO    ] discord_bot: discord.py API version: 2.3.0
+[2023-06-30 12:16:11] [INFO    ] discord_bot: Python version: 3.11.4
+[2023-06-30 12:16:11] [INFO    ] discord_bot: Running on: Darwin 22.5.0 (posix)
+[2023-06-30 12:16:11] [INFO    ] discord_bot: -------------------
+[2023-06-30 12:16:11] [INFO    ] discord_bot: Opus is loaded:True
