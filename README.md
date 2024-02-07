@@ -1,4 +1,3 @@
-Sussy Imposter bot by Wistful.
 
 A bot that uses openAi chat bot with commands.
 
